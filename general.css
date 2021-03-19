@@ -37,3 +37,25 @@ nav li:hover{
   color: #E7DA66;
   border-bottom: 3px solid #FFD98C;
 }
+
+/* 参考文献
+https://abhp.net/hp/HP_CSS_500000.html
+*/
+
+h1{
+  font-size:139%;
+  color: #00848A;
+  background-color: #FFFFFF;
+}
+
+/* 参考文献
+https://namagomi-days.com/ul-color/
+*/
+
+.list ul li{
+  color: #00A4AC;
+}
+
+.list ul li span{
+  color: #000000;
+}
